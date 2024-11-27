@@ -19,4 +19,4 @@
 - [Portfolio](https://nickjames.info)
 
 ## 🌟 Projects
-- [Flippify](https://flippify.co.uk/reselling) - You sell on eBay/Amazon? Check this out!.
+- [Flippify](https://flippify.co.uk?ref=nick-github) - You sell on eBay/Amazon? Check this out!.
