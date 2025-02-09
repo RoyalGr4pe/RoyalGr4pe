@@ -18,7 +18,4 @@
 - [LinkedIn](https://www.linkedin.com/in/nicholas-james-131906247/)
 - [Portfolio](https://nickjames.info)
 
-## 🌟 Projects
-- [Flippify](https://flippify.co.uk?ref=nick-github) - You sell on eBay/Amazon? Check this out!.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RoyalGr4pe&label=Profile%20views&color=0e75b6&style=flat" alt="RoyalGr4pe" /> </p>
