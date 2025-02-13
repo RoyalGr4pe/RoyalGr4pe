@@ -34,8 +34,8 @@
 
   <table align="center" width="100%" height="100%">
     <tr>
-       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=RoyalGr4pe&show_icons=true&theme=codeSTACKr" alt="GitHub Stats"/></td>
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalGr4pe&theme=codeSTACKr" alt="Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-stats.vercel.app/api?username=RoyalGr4pe&show_icons=true&theme=codeSTACKr" alt="gitHub stats"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=RoyalGr4pe&theme=codeSTACKr" alt="contribution streak"/></td>
     </tr>
   </table>
 
