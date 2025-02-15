@@ -7,6 +7,7 @@
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p align="center">As a flexible developer, I have expertise in multiple programming languages, each playing a key role in solving complex challenges and creating reliable solutions. Below are the languages I work with frequently</p>
 <div align="center">
+  <!-- <img src="https://img.shields.io/badge/Rust-C36241?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 </div>
