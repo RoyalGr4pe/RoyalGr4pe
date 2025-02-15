@@ -16,16 +16,18 @@
 <p align="center">Frameworks are essential to my development process, offering the structure and tools needed to create scalable, efficient applications. I have extensive experience with a wide range of frameworks, each selected for its ability to speed up development and ensure strong, reliable functionality</p>
 <div align="center">
   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="stripe"/>
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/npm-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/solana--sdk-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana"/>
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
-  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-  <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
+    <img src="https://img.shields.io/badge/stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="stripe"/>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img src="https://img.shields.io/badge/npm-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="npm"/>
+    <img src="https://img.shields.io/badge/solana--sdk-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="solana"/>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+    <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+    <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/>
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+    <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
+    <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="git"/>
+    <img src="https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
 </div>
 
 
